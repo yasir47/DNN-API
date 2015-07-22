@@ -1,0 +1,5 @@
+D:\DNN\DesktopModules\bin\TestDb.dll
+D:\DNN\DesktopModules\bin\TestDb.pdb
+D:\DNN\DesktopModules\TestDb\TestDb\obj\Release\TestDb.dll
+D:\DNN\DesktopModules\TestDb\TestDb\obj\Release\TestDb.pdb
+D:\DNN\DesktopModules\bin\TestDb.dll.config

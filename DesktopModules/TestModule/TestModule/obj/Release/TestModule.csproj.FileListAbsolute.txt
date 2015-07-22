@@ -1,0 +1,5 @@
+D:\DNN\DesktopModules\bin\TestModule.dll
+D:\DNN\DesktopModules\bin\TestModule.pdb
+D:\DNN\DesktopModules\TestModule\TestModule\obj\Release\TestModule.csprojResolveAssemblyReference.cache
+D:\DNN\DesktopModules\TestModule\TestModule\obj\Release\TestModule.dll
+D:\DNN\DesktopModules\TestModule\TestModule\obj\Release\TestModule.pdb

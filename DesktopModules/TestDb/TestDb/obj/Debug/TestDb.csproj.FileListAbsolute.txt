@@ -1,0 +1,6 @@
+D:\DNN\DesktopModules\bin\TestDb.dll
+D:\DNN\DesktopModules\bin\TestDb.pdb
+D:\DNN\DesktopModules\TestDb\TestDb\obj\Debug\TestDb.csprojResolveAssemblyReference.cache
+D:\DNN\DesktopModules\TestDb\TestDb\obj\Debug\TestDb.dll
+D:\DNN\DesktopModules\TestDb\TestDb\obj\Debug\TestDb.pdb
+D:\DNN\DesktopModules\bin\TestDb.dll.config
